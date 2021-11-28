@@ -6,7 +6,7 @@ Dalam bahasa pemrograman Python, struktur data yang paling dasar adalah urutan a
 ### 1. Mengakses List
 ![Gambar 1](image/akseslist1.jpeg)
 
-### Penjelasan
+#### Penjelasan
 1. Membuat list dengan value (nilai) yang diinginkan. Dalam variable <b>negara</b> tersimpan nilai berupa array list yang didalamnya terdapat 6 elemen. Dimulai dari elemen pertama atau indeks ke-0 yaitu “china” dan diakhiri dengan elemen ke-6 atau indeks ke-5 yaitu “kanada”.
 
 	```python
@@ -35,13 +35,13 @@ Dalam bahasa pemrograman Python, struktur data yang paling dasar adalah urutan a
     ```python
 	print("Elemen Terakhir :", negara[-1])
 	```
-### Output
+#### Output
 ![Gambar 2](image/akseslist2.jpeg)
 
 ### 2. Mengubah List
 ![Gambar 3](image/ubahlist1.jpeg)
 
-### Penjelasan
+#### Penjelasan
 1. Membuat list dengan nilai yang diinginkan.
 	
     ```python
@@ -62,13 +62,13 @@ Dalam bahasa pemrograman Python, struktur data yang paling dasar adalah urutan a
 	negara[4:]=["hongkong", "makau"]
     print("Ubah element ke-4 hingga akhir :", negara)
 	```
-### Output
+#### Output
 ![Gambar 4](image/ubahlist2.jpeg)
 
 ### 3. Tambah List
 ![Gambar 5](image/tambahlist1.jpeg)
 
-### Penjelasan
+#### Penjelasan
 1. Buat list dengan variable A dan b dengan nilai yang diinginkan.
 	
     ```python
@@ -101,7 +101,7 @@ Dalam bahasa pemrograman Python, struktur data yang paling dasar adalah urutan a
     ```python
 	print(a+b)
 	```
-### Output
+#### Output
 ![Gambar 6](image/tambahlist2.jpeg)
 
 ## 2. Tugas Praktikum : Menambahkan Data ke dalam List
